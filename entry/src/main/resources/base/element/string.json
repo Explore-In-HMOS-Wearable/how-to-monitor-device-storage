@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Wearable storage monitor codelab"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Device free space and app storage usage"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Storage Monitor"
+    }
+  ]
+}
